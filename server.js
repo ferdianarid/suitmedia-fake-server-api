@@ -5,7 +5,7 @@ const fakeServer = require("json-server")
 const application = fakeServer.create()
 
 // route fake data
-const router = fakeServer.router("db.json")
+const router = fakeServer.router("comments.json")
 
 // json server middleware
 const middlewares = fakeServer.defaults()
