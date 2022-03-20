@@ -67,4 +67,4 @@ Untuk data comments.json nya seperti ini
 Dengan memfetching data dari api tersebut, hasil data nya seperti di atas yang nantinya siap untuk di render ke React HTML Elements
 
 Terima Kasih .....
-** Ferdian Ahmad R**
+**Ferdian Ahmad R**
