@@ -64,6 +64,7 @@ Untuk data comments.json nya seperti ini
 }
 ```
 
-Tampilan awal dari Fake Server menggunakan json-server dan heroku
+Dengan memfetching data dari api tersebut, hasil data nya seperti di atas yang nantinya siap untuk di render ke React HTML Elements
 
-Dan ketika akses resources comment, akan mendapatkan json data nya yang nanti nya di fetch request untuk di render ke React HTML Elements
+Terima Kasih .....
+** Ferdian Ahmad R**
