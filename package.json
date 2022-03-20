@@ -1,0 +1,14 @@
+{
+    "name": "suitmedia-fake-server-api",
+    "version": "1.1.1",
+    "description": "suitmedia-fake-server-api",
+    "author": "ferdianarid",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "license": "Mozilla Public License",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
