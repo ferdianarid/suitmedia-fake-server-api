@@ -1,4 +1,4 @@
-# Suitmedia Fake Server API
+## Suitmedia Fake Server API
 
 Untuk mempermudah test fake data ketika di production. Ini saya punya inisiatif untuk membuat fake server dari **comments json** menggunakan Heroku App. 
 Sehingga peoject yang sudah saya deploy ke vercel, nanti mengambil data nya ke url Fake Server URL ( https://suitmedia-fake-server-api.herokuapp.com/comments ).
